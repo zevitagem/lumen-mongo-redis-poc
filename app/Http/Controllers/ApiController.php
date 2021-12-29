@@ -2,8 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use App\Library\MongoManager;
-use App\Library\Fees;
+use App\Libraries\MongoManager;
+use App\Libraries\Fees;
 use Illuminate\Http\Request;
 
 class ApiController extends Controller

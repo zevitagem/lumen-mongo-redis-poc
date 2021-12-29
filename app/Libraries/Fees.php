@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Library;
+namespace App\Libraries;
 
 class Fees
 {

@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace App\Http\Middleware\Database;
 
-use App\Library\MongoManager;
+use App\Libraries\MongoManager;
 use Illuminate\Support\Facades\Log;
 
 class MongoMiddleware

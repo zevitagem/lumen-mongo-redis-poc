@@ -6,8 +6,10 @@
     "type": "project",
     "require": {
         "php": "^7.3|^8.0",
+        "illuminate/redis": "^8.77",
         "laravel/lumen-framework": "^8.3.1",
-        "mongodb/mongodb": "^1.9.0-alpha1"
+        "mongodb/mongodb": "^1.9.0-alpha1",
+        "predis/predis": "^1.1"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
